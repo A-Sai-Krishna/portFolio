@@ -1,0 +1,80 @@
+.navNames{
+    color:white !important ;
+    font-weight:bold !important;
+}
+.brand{
+    color:black ;
+    font-weight:bold !important;
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/premium-photo/top-view-dark-stylish-workplace-with-smartphone-office-supplies_67155-2963.jpg");
+    height:100vh;
+    background-size: cover;
+}
+.name{
+    color:lemonchiffon;
+    text-align: center;
+    margin-top: 10px;
+    font-family: cursive;
+}
+.photo{
+    height: 220px;
+    width:220px;
+    border-style:solid;
+    border-radius:150px;
+}
+.brief{
+    color:white;
+    font-family: cursive;
+    margin-top:10px;
+    text-align: center;
+    font-size: 35px;
+}
+.button{
+    border-radius:10px;
+    padding:5px;
+}
+.aboutbg{
+    background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=600");
+    height:100vh;
+    background-size:cover;
+}
+.image1{
+    height:70px;
+    border-style: solid;
+    border-radius:20px;
+    margin:20px;
+    margin-bottom:50px;
+}
+.title{
+    font-weight: bold;
+    font-size:25px;
+    font-family: cursive;
+    margin-bottom:-5px;
+    
+}
+.style{
+    font-weight: normal !important;
+    margin-left:4px;
+    font-size: 20px;
+}
+.title1{
+    margin-bottom:10px;
+    text-decoration:underline;
+}
+.listitem{
+    font-weight: bold;
+    font-family: cursive;
+    font-size:18px;
+}
+.container1{
+    margin-left:70px;
+    margin-top:8px;
+}
+.container2{
+    margin-left:70px;
+    margin-top:8px;
+}
+.image{
+    height:60px
+}
